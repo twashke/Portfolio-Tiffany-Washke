@@ -1,6 +1,6 @@
 # Portfolio-Tiffany-Washke
 
-Updated Tiffany Washke Portfolio brief description.
+A portfolio website about Tiffany Washke utilizing HTML, CSS, Bulma Framework, Google Fonts, and Javascript.  Designed to be mobile first, the portfolio was updated to include a link to a PDF Resume for potential employers to review.  The Work portion has been updated to include the most recent group project [Mood Tracker](https://chabivz.github.io/Mood-Tracker/) as well as other notable homework assignments.  Both LinkedIn and GitHub have been updated to include contact information and links to the portfolio.
 
 ## Table of Contents 
 
@@ -65,7 +65,7 @@ Screenshot Title \
 
 ## Credit
 
-- Previous code created by Tiffany Washke
+- Previous code created by Tiffany Washke 2021
 - [Bulma](https://bulma.io/documentation/)
 - [bulma-debug.css](https://gist.github.com/JuanVqz/105c4910ff711659059c99492ecd1a5c) used to debug CSS layout
 - [Google Fonts](https://fonts.google.com/)
