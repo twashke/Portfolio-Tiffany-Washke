@@ -479,7 +479,6 @@ footer {
         align-self: flex-start;
         justify-self: flex-start;
     }
-
     /* Project Big Image Sizes */
     .project_big img {
         height: 300px;
@@ -511,12 +510,28 @@ footer {
         justify-self: flex-start;
         flex-wrap: wrap;
     }
+    /* Resume H3 Title */
+    .resume h2 {
+        text-align: center;
+    }
+    /* Resume Experience Display */
+    .resume_experience {
+        align-self: center;
+    }    
+    /* Resume Skills Display */
+    .resume_skills {
+        align-self: center;
+    }
+    /* Resume Education Display */
+    .resume_education {
+        align-self: center;
+    }
     /* Resume Container Display */
     .resume_container {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: flex-end;
         align-items: center;
     }
     /* Contact Container Display */
@@ -625,12 +640,28 @@ footer {
         justify-self: flex-start;
         flex-wrap: wrap;
     }
+    /* Resume H3 Title */
+    .resume h2 {
+        text-align: center;
+    }
+    /* Resume Experience Display */
+    .resume_experience {
+        align-self: center;
+    }    
+    /* Resume Skills Display */
+    .resume_skills {
+        align-self: center;
+    }
+    /* Resume Education Display */
+    .resume_education {
+        align-self: center;
+    }
     /* Resume Container Display */
     .resume_container {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: flex-end;
         align-items: center;
     }
     /* Contact Container Display */
@@ -735,12 +766,28 @@ footer {
         justify-self: flex-start;
         flex-wrap: wrap;
     }
+    /* Resume H3 Title */
+    .resume h2 {
+        text-align: center;
+    }
+    /* Resume Experience Display */
+    .resume_experience {
+        align-self: center;
+    }    
+    /* Resume Skills Display */
+    .resume_skills {
+        align-self: center;
+    }
+    /* Resume Education Display */
+    .resume_education {
+        align-self: center;
+    }
     /* Resume Container Display */
     .resume_container {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: flex-end;
         align-items: center;
     }
     /* Contact Container Display */
