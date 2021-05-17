@@ -44,17 +44,23 @@ A portfolio website about Tiffany Washke utilizing HTML, CSS, Bulma Framework, G
     - LinkedIn image, opens up personal LinkedIn website.
     - Github image, opens up personal Github Repository.
 
-GIF Title \
-[GIF Description](Assets/images/)  \
+Portfolio Navigation and Links \
+![Navigation and Links](Assets/images/portfolio-nav-links.gif)  \
 \
-Screenshot Title \
-![Picture Description](Assets/images/)  \
+Link to PDF Resume \
+![PDF Resume](Assets/images/link-to-resume.gif)  \
 \
-Screenshot Title \
-![Picture Description](Assets/images/)  \
+Contact Information - Email \
+![Opens Email](Assets/images/email-open.gif)  \
 \
-Screenshot Title \
-![Picture Description](Assets/images/)  \
+Contact Information - LinkedIn \
+![Opens LinkedIn](Assets/images/linkedin-link.gif)  \
+\
+Contact Information - GitHub \
+![Opens GitHub](Assets/images/github-link.gif)  \
+\
+Updated Work Section \
+![Updated Work Section](Assets/images/work-section-updated.png)  \
 \
 Mobile First Design \
 ![Mobile Design](Assets/images/mobile-design.jpeg) 
