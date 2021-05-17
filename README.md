@@ -47,8 +47,8 @@ A portfolio website about Tiffany Washke utilizing HTML, CSS, Bulma Framework, G
 GIF Title \
 [GIF Description](Assets/images/)  \
 \
-Mobile First Design \
-![Mobile Design](Assets/images/mobile-design.jpeg)  \
+Screenshot Title \
+![Picture Description](Assets/images/)  \
 \
 Screenshot Title \
 ![Picture Description](Assets/images/)  \
