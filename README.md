@@ -16,10 +16,6 @@ A portfolio website about Tiffany Washke utilizing HTML, CSS, Bulma Framework, G
 - Portfolio was designed to be mobile first and also fits desktop screens.
 - A link to a PDF Resume has been added and opens to a new page.
 - The Work section has been updated with the most current group project [Mood Tracker](https://chabivz.github.io/Mood-Tracker/) as well as other homework assignments ([Work Day Scheduler](https://twashke.github.io/Work-Day-Scheduler-Application/), [Weather Dashboard](https://twashke.github.io/Weather-Dashboard/), [Timed Coding Quiz](https://twashke.github.io/Timed-Coding-Quiz/)) and a placeholder linked to [Github](https://github.com/twashke).
-- Project Information
-- Project Information
-- Project Information
-- Project Information
 - Built with the following technologies:
     - [Bulma](https://bulma.io/documentation/)
     - [bulma-debug.css](https://gist.github.com/JuanVqz/105c4910ff711659059c99492ecd1a5c) used to debug CSS layout
@@ -28,6 +24,7 @@ A portfolio website about Tiffany Washke utilizing HTML, CSS, Bulma Framework, G
     - HTML
     - CSS
 - Comments have been added to the HTML, CSS and JS files to clarify each step and make future updates easier.
+- In addition to portfolio updates, both [LinkedIn](https://www.linkedin.com/in/tiffanywashke) and [GitHub](https://github.com/twashke) have been updated to include a biography, contact information and links to the portfolio.
 
 ## Installation
 
