@@ -194,7 +194,7 @@ a:active{
 
 /* Work Section H2 Styling */
 .work h2 {
-    padding-left: 300px;
+    text-align: center;
 }
 
 /* Work Container Display and Styling */
@@ -221,10 +221,12 @@ a:active{
     box-shadow: 10px 10px (var--teal); 
 }
 
+/* Styling for project_1 h3 hover */
 .project_1 h3:hover {
     color: var(--black);
 }
 
+/* Styling for project_1 h3 hover */
 .project_1 h4:hover {
     color: var(--black);
 }
@@ -321,6 +323,8 @@ a:active{
     font-size: 1rem;
     line-height: 5%;
 }
+
+/* Project 2, 3, 4, 5 h3 Stylings */
 .project_2 h3,
 .project_3 h3,
 .project_4 h3,
@@ -330,6 +334,7 @@ a:active{
     line-height: 5%;
 }
 
+/* Project 2, 3, 4, 5 h4 Stylings */
 .project_2 h4,
 .project_3 h4,
 .project_4 h4,
@@ -357,6 +362,11 @@ line-height: 1%;
 .resume_container h3 {
     font-size: 25px;
     font-weight: bolder;
+    text-align: center;
+}
+
+/* Resume h2 Title */
+.resume h2 {
     text-align: center;
 }
 
@@ -460,7 +470,7 @@ footer {
     }
     /* Work Section H2 Styling */
     .work h2 {
-        padding-left: 200px;
+        text-align: center;
     }
     /* Work Container Display and Styling */
     .work_container {
@@ -510,7 +520,7 @@ footer {
         justify-self: flex-start;
         flex-wrap: wrap;
     }
-    /* Resume H3 Title */
+    /* Resume h2 Title */
     .resume h2 {
         text-align: center;
     }
@@ -586,10 +596,6 @@ footer {
         flex-direction: column;
         flex-wrap: wrap;
     }
-    /* Work Section H2 Styling */
-    .work h2 {
-        padding-left: 200px;
-    }
     /* Work Container Display and Styling */
     .work_container {
         display: flex;
@@ -640,7 +646,7 @@ footer {
         justify-self: flex-start;
         flex-wrap: wrap;
     }
-    /* Resume H3 Title */
+    /* Resume h2 Title */
     .resume h2 {
         text-align: center;
     }
@@ -712,10 +718,6 @@ footer {
         flex-direction: column;
         flex-wrap: wrap;
     }
-    /* Work Section H2 Styling */
-    .work h2 {
-        padding-left: 200px;
-    }
     /* Work Container Display and Styling */
     .work_container {
         display: flex;
@@ -766,7 +768,7 @@ footer {
         justify-self: flex-start;
         flex-wrap: wrap;
     }
-    /* Resume H3 Title */
+    /* Resume h2 Title */
     .resume h2 {
         text-align: center;
     }
