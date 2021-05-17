@@ -34,15 +34,15 @@ A portfolio website about Tiffany Washke utilizing HTML, CSS, Bulma Framework, G
 ## Usage
 
 - Go to [Deployed Github Page](https://twashke.github.io/Portfolio-Tiffany-Washke/)
-- Project Usage
-- Project Usage
-- Project Usage
-- Project Usage
-- Project Usage
-- Project Usage
-- Project Usage
-- Project Usage
-
+- Use the Navigation bar at the top to travel to a specific section of the Portfolio.
+- Use the fixed Navigation Hamburger Menu (top left of screen) to travel to a specific section of the Portfolio.
+- In the Work section, click on the picture or the project title to open up the Deployed Github Page.
+- Underneath the picture and title, click on GitHub Repository to open the Github Repository for that project.
+- Under the Resume section click on the Link to PDF to open a PDF of Resume in a different window.
+- In the Contact section, click on any of the following:
+    - Email image, allows the vistor to send an email directly.
+    - LinkedIn image, opens up personal LinkedIn website.
+    - Github image, opens up personal Github Repository.
 
 GIF Title \
 [GIF Description](Assets/images/)  \
@@ -56,8 +56,8 @@ Screenshot Title \
 Screenshot Title \
 ![Picture Description](Assets/images/)  \
 \
-Screenshot Title \
-![Picture Description](Assets/images/) 
+Mobile First Design \
+![Mobile Design](Assets/images/mobile-design.jpeg) 
 
 
 ## Credit
