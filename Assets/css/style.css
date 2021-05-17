@@ -365,9 +365,18 @@ line-height: 1%;
     text-align: center;
 }
 
-/* Resume h2 Title */
-.resume h2 {
+/* Resume h2 and h4 Title */
+.resume h2,
+.resume h4 {
     text-align: center;
+    line-height: 50%;
+}
+
+/* Resume h3 Title */
+.resume h3 {
+    line-height: 100%;
+    font-weight: bolder;
+    font-size: 2rem;
 }
 
 /* Resume Experience Display */
