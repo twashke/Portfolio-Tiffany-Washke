@@ -50,22 +50,25 @@ Updated Tiffany Washke Portfolio brief description.
 GIF Title \
 [GIF Description](Assets/images/)  \
 \
-Screenshot Title \
-[Picture Description](Assets/images/)  \
+Mobile First Design \
+![Mobile Design](Assets/images/mobile-design.jpeg)  \
 \
 Screenshot Title \
-[Picture Description](Assets/images/)  \
+![Picture Description](Assets/images/)  \
 \
 Screenshot Title \
-[Picture Description](Assets/images/)  \
+![Picture Description](Assets/images/)  \
 \
 Screenshot Title \
-[Picture Description](Assets/images/) 
+![Picture Description](Assets/images/) 
 
 
 ## Credit
 
-- 
+- Previous code created by Tiffany Washke
+- [Bulma](https://bulma.io/documentation/)
+- [bulma-debug.css](https://gist.github.com/JuanVqz/105c4910ff711659059c99492ecd1a5c) used to debug CSS layout
+- [Google Fonts](https://fonts.google.com/)
 
 ## License
 
