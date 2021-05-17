@@ -126,7 +126,6 @@ a:visited{
 
 /* Link Hover Decorations */
 a:hover{
-    background-color: var(--black);
     color: var(--white);
     font-size: bolder;
 }
@@ -210,15 +209,24 @@ a:active{
 
 /* Project Big Hover Styling */
 .project_big:hover {
-    background-color: var(--gray);
+    background-color: var(--white);
     font-size: bolder;
-    box-shadow: 5px 5px (var--teal);                 
+    box-shadow: 10px 10px (var--teal); 
+    color: var(-teal);                   
 }
 
 /* Project_1 Hover Styling */
 .project_1:hover {
-    background-color: var(--gray);
-    box-shadow: 10px 10px (var--teal);    
+    background-color: var(--white);  
+    box-shadow: 10px 10px (var--teal); 
+}
+
+.project_1 h3:hover {
+    color: var(--black);
+}
+
+.project_1 h4:hover {
+    color: var(--black);
 }
 
 /* Project Big Container Display */
@@ -236,17 +244,23 @@ a:active{
     border: 3px solid (--white);
 }
 
-/* Project_1 Styling */
-.project_1 {
-    color: var(--white);
-    font-size: 150%;
-    font-weight: bolder;
-    text-align: right;
+/* Project_1 h3 Styling */
+.project_1 h3 {
+    color: var(--teal);
+    font-size: 2.5rem;
+    text-align: left;
+    padding-left: 50px;
+    line-height: 5%;
 }
 
-/* Span H3 Padding */
-span h3 {
-    padding-right: 50px;
+/* Project_1 h4 Styling */
+.project_1 h4 {
+    color: var(--teal);
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-align: left;
+    padding-left: 50px;
+    line-height: 1%;
 }
 
 /* Project 2, 3, 4, 5 Hover Stylings */
@@ -255,8 +269,23 @@ span h3 {
 .project_4:hover,
 .project_5:hover {
     background-color: var(--gray);
-    font-size: bolder;
     box-shadow: 5px 5px var(--teal);
+}
+
+/* h3 Styling */
+.project_2 h3:hover,
+.project_3 h3:hover,
+.project_4 h3:hover,
+.project_5 h3:hover {
+    color: var(--black);
+}
+
+/* h4 Styling */
+.project_2 h4:hover,
+.project_3 h4:hover,
+.project_4 h4:hover,
+.project_5 h4:hover {
+    color: var(--black);
 }
 
 /* Project Small Container Display */
@@ -286,9 +315,28 @@ span h3 {
 .project_5 {
     border: 5px double var(--gray);
     font-weight: bolder;
-    text-align: right;
+    text-align: center;
     padding: 10px;
     margin: 10px;
+    font-size: 1rem;
+    line-height: 5%;
+}
+.project_2 h3,
+.project_3 h3,
+.project_4 h3,
+.project_5 h3 {
+    color: var(--white);
+    font-size: 1.25rem;
+    line-height: 5%;
+}
+
+.project_2 h4,
+.project_3 h4,
+.project_4 h4,
+.project_5 h4 {
+color: var(--white);
+font-size: 1rem;
+line-height: 1%;
 }
 
 /* Resume Section Styling */
@@ -421,8 +469,8 @@ footer {
         align-items: center;
         flex-direction: row;
         flex-wrap: wrap;
-        margin-right: 125px;
-        padding-right: 50px;
+        padding-left: 75px;
+        margin-left: 50px;
     }
     /* Project Big Container Display */
     .project_big {
@@ -430,22 +478,22 @@ footer {
         width: 500px;
         align-self: flex-start;
         justify-self: flex-start;
-        padding-bottom: 5px;
     }
+
     /* Project Big Image Sizes */
     .project_big img {
         height: 300px;
-        width: 300px;
     }
     /* Project Small Container Display */
     .project_small {
-        height: 100%;
-        width: 100%;
+        height: 75%;
+        width: 75%;
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
         padding-left: 15px;
+        margin-left: 100px;
     }
     /* Project Small Image Sizes */
     .project_small img {
@@ -534,8 +582,8 @@ footer {
         align-items: center;
         flex-direction: row;
         flex-wrap: wrap;
-        padding-right: 50px;
-        margin-right: 125px;
+        padding-left: 75px;
+        margin-left: 50px;
     }
     /* Project Big Container Display */
     .project_big {
@@ -559,6 +607,7 @@ footer {
         justify-content: flex-start;
         align-items: center;
         padding-left: 15px;
+        margin-left: 100px;
     }
     /* Project Small Image Sizes */
     .project_small img {
@@ -643,8 +692,8 @@ footer {
         align-items: center;
         flex-direction: row;
         flex-wrap: wrap;
-        padding-right: 50px;
-        margin-right: 125px;
+        padding-left: 75px;
+        margin-left: 50px;
     }
     /* Project Big Container Display */
     .project_big {
@@ -661,18 +710,19 @@ footer {
     }
     /* Project Small Container Display */
     .project_small {
-        height: 100%;
-        width: 100%;
+        height: 75%;
+        width: 75%;
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
         padding-left: 15px;
+        margin-left: 100px;
     }
     /* Project Small Image Sizes */
     .project_small img {
-        height: 100%;
-        width: 100%;
+        height: 75%;
+        width: 75%;
     }
     /* Project 2, 3, 4, 5 Display */
     .project_2,
