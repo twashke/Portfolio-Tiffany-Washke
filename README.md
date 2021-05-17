@@ -24,18 +24,19 @@ Updated Tiffany Washke Portfolio brief description.
     - [Bulma](https://bulma.io/documentation/)
     - [bulma-debug.css](https://gist.github.com/JuanVqz/105c4910ff711659059c99492ecd1a5c) used to debug CSS layout
     - [Google Fonts](https://fonts.google.com/)
-    - [jQuery](https://jquery.com/)
-    - [Moments.js](https://momentjs.com/)
+    - Javascript
+    - HTML
+    - CSS
 - Comments have been added to the HTML, CSS and JS files to clarify each step and make future updates easier.
 
 ## Installation
 
-- Open [Tiffany Washke Portfolio](https://twashke.github.io/) 
+- Open [Tiffany Washke Portfolio](https://twashke.github.io/Portfolio-Tiffany-Washke/) 
 - Or, open index.html in the internet browser.
 
 ## Usage
 
-- Go to [Deployed Github Page](https://twashke.github.io/)
+- Go to [Deployed Github Page](https://twashke.github.io/Portfolio-Tiffany-Washke/)
 - Project Usage
 - Project Usage
 - Project Usage
